@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - bussrrajeshnayak/gsm-repo
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.35.193.228.232.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
